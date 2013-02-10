@@ -96,8 +96,10 @@ choices that negatively affect their image which are not considered taboo.
 As an example, it's not considered culturally insensitive to unspecifically
 [address a group of drug addicts][meth-project].
 
+<!--
 As another example, those who use [nicotine to self-meditate][adhd-self-med] their
 (possibily hereditary) ADHD don't get pulled out of the smokers label.
+-->
 
 But, whatever, the truth is that *fat* is often considered an offensive word.
 I can live with that.
