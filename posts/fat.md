@@ -147,7 +147,7 @@ That breeds some resentment - again not towards the fat,
 but towards companies that use *us* to *their* advantage without giving us
 the promised product in return.
 
-(That said, it's worth noting that all though a MT from the regular section
+(That said, it's worth noting that although a MT from the regular section
 *might* be legitimately Medium Tall -
 but it's *extremely* rare to find one -
 whereas an MT from a big and tall section is almost always a XXL or XXXL relabeled)
@@ -170,7 +170,7 @@ Not the side of the [95%](http://answers.google.com/answers/threadview/id/325064
 
 **On the side of the top 10%.**
 
-## And I've been there too
+### Epilogue: And I've been there too
 
 As an FYI, I'm actually slightly overweight, but no one ever notices.
 
