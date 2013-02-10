@@ -12,6 +12,10 @@ layout : default
     </div>
     <div class="content">
       {{{ page.content }}}
+      <br/>
+      {{# page.author }}
+      By {{ page.author }}
+      {{/ page.author }}
     </div>
     <ul class="tag_box inline">
       <li><i class="icon-folder-open"></i></li>

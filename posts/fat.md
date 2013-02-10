@@ -2,8 +2,10 @@
 title: "Fat"
 permalink: /articles/fat.html
 date: '2013-02-10'
-description:
+author: AJ ONeal
+description: "A rebuttle to a complaint that our comic addressing the issue of big and tall stores using their name as a euphemism, at the expense and injustice of the tall."
 categories:
+  - feedback
 ---
 
 [big-n-tall-comic]: https://sphotos-b.xx.fbcdn.net/hphotos-ash4/299542_493943143989770_1084414739_n.png
@@ -12,10 +14,16 @@ categories:
 [the-cake-is-a-lie]: http://www.urbandictionary.com/define.php?term=the%20cake%20is%20a%20lie
 [pink-elephant]: http://en.wikipedia.org/wiki/Elephant_in_the_room
 
+A rebuttle to a complaint that our comic addressing the issue of big and tall stores
+using their name as a euphemism, at the expense and injustice of the tall.
+
 ## Negative Feedback
 
 A little while ago we released this comic in which we used the word fat
-and we had one complaint that it was offensive.
+and we had one complaint that it was offensive and that we are being
+insensitive.
+
+This is the one:
 
 ![Big & Tall][big-n-tall-comic]
 
@@ -48,7 +56,7 @@ It's a *first-world problem*.
 My point is that you can take reasonable measures to adjust your weight
 to be what you desire.
 Two friends of mine have lost 50+ pounds in the past year.
-The didn't like their image and they changed it.
+They didn't like their image and they changed it.
 Hurrah for my friends!
 :-D
 
@@ -166,13 +174,24 @@ As an FYI, I'm actually slightly overweight, but no one ever notices.
 
 When I was in 6th grade I was going through a chubby phase and one day this
 girl came up to me and said *you're fat*.
+
 Since that day I have always sucked my stomach in.
 Always.
 *Always.*
 **Always.**
 
-It's become the norm for me so much that when I relax my stomach it feels weird.
+It's become the norm for me so much so that when I relax my stomach it feels weird.
 I probably only relax it when I'm sleeping.
 
-I just don't want anyone thinking that my points are invalid on a basis of
-never having experienced or having been impacted by image issues.
+I say this because I don't want anyone thinking that my points are invalid
+on a basis of never having experienced or having been impacted by image issues.
+
+Image issues are something we all deal and, in many cases, are things that we can
+resolve -
+regardless of the fact that it is easier for some than for others.
+
+For the case of the Tall, we're helping to solve image issues by providing
+clothes that are not only *not embarrassing* to wear,
+but that... well, look good.
+
+:-D
