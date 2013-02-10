@@ -13,6 +13,7 @@ categories:
 [meth-project]: http://www.youtube.com/user/MethProject
 [the-cake-is-a-lie]: http://www.urbandictionary.com/define.php?term=the%20cake%20is%20a%20lie
 [pink-elephant]: http://en.wikipedia.org/wiki/Elephant_in_the_room
+[born-this-way]: http://youtu.be/wV1FrqwZyKw
 
 A rebuttle to a complaint that our comic addressing the issue of big and tall stores
 using their name as a euphemism, at the expense and injustice of the tall.
@@ -124,16 +125,17 @@ will go something like this:
 > and Tall is *good* so I can
 > *brag* that I shop at a big *and tall* store.
 
-In reality big and tall stores don't have lengths that are any longer than
-would be expected in accordance with normal size progression.
-
-Well, we're born this way.
+Well, we're born this way (but not [this way][born-this-way].
 It's not something we can change by changing our lifestyle.
 It's not that we have anything against the fat,
 it's that we don't like that this double-euphemism **comes at the *our* expense**!
 
+In reality big and tall stores don't have lengths that are any longer than
+would be expected in accordance with normal size progression.
+
 An *extra large* is maybe 2 inches longer than a *small*.
-For many brands and styles, an *LT* and an *XXXL* (pronounced triple-X L)
+For many brands and styles, an *LT* and an *XXXL*
+(pronounced triple-X L, hence the *an*)
 are exactly the same size - they're simply relabeled.
 
 We (speaking for many a tall person) are a little bitter about that injustice.
@@ -142,8 +144,8 @@ There's some hurt feelings.
 We've all had the experience of thinking we've found something that will fit well,
 only to find out that [the cake is a lie][the-cake-is-a-lie].
 That breeds some resentment - again not towards the fat,
-more towards the companies that use us to their advantage without giving us
-the promise product in return.
+but towards companies that use *us* to *their* advantage without giving us
+the promised product in return.
 
 (That said, it's worth noting that all though a MT from the regular section
 *might* be legitimately Medium Tall -
