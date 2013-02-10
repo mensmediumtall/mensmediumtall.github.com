@@ -10,6 +10,7 @@ categories:
 [hurt-feelings]: http://youtu.be/9zI3_pnUU3k
 [meth-project]: http://www.youtube.com/user/MethProject
 [the-cake-is-a-lie]: http://www.urbandictionary.com/define.php?term=the%20cake%20is%20a%20lie
+[pink-elephant]: http://en.wikipedia.org/wiki/Elephant_in_the_room
 
 ## Negative Feedback
 
@@ -33,7 +34,7 @@ America has a lot of overweight people
 (overweight is so much longer of a word than fat).
 Although some people claim that obesity
 (a word which implies not just an image issue, but also a medical condition)
-is heriditary and yada yada.
+is hereditary and yada yada.
 I'll argue *FALSE*.
 False in the sense that weight gain or loss is more strongly
 associated with calorie intake than any other factor.
@@ -71,7 +72,7 @@ deal with it.
 
 Okay, I can agree with that.
 100% of people go through a short phase.
-Only about 10% of people go through a tall <del>phase</del>.
+Only about 10% of people go through <del>a</del> tall <del>phase</del>.
 That's fair. 
 
 ### Back on track
@@ -80,10 +81,11 @@ It really doesn't make sense as to why words like *fat* should be taboo.
 There are many other terms that apply to people who are making lifestyle
 choices that negatively affect their image which are not considered taboo.
 
-As an example, it's not considered culturally insensitive to inspecifically
+As an example, it's not considered culturally insensitive to unspecifically
 [address a group of drug addicts][meth-project].
 
-But whatever, the truth is that *fat* is often considered an offensive word.
+But, whatever, the truth is that *fat* is often considered an offensive word.
+I can live with that.
 
 ### We've got hurt feelings
 
@@ -126,7 +128,7 @@ An *extra large* is maybe 2 inches longer than a *small*.
 For many brands and styles, an *LT* and an *XXXL* (pronounced triple-X L)
 are exactly the same size - they're simply relabeled.
 
-We (speaking for many a tall person) are a little bitter about that.
+We (speaking for many a tall person) are a little bitter about that injustice.
 There's some hurt feelings.
 
 We've all had the experience of thinking we've found something that will fit well,
@@ -145,12 +147,15 @@ chose to use the word *fat*.
 If we just said *big*,
 then we would fit into the stereotype of protecting group A at the expense of group B.
 
-Well, we're group Tall and at this stage in the game we need the Tall to know
+We needed to address [the pink elephant in the room][pink-elephant]
+that all tall people are thinking.
+Meanwhile, the non-tall people don't see that pink elephant.
+It doesn't affect them.
+
+Well, we're Group Tall and at this stage in the game we need the Tall to know
 that we're on *their* side.
 Not the side of the [69.2%](http://www.cdc.gov/nchs/fastats/overwt.htm).
 Not the politically correct side.
 Not the side of the [95%](http://answers.google.com/answers/threadview/id/325064.html).
 
 **On the side of the top 10%.**
-
-P.S. In that 10% we're al actually includes people who have long torsos
