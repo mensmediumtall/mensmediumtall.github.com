@@ -1,10 +1,10 @@
-title : Blog Title
-tagline: Blog Tagline
+title : The Tall Blag
+tagline: Like a blog, but less hip.
 author :
-  name : Firstname Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
+  name : Tall Blag
+  email : tallblag@mensmediumtall.com
+  github : mensmediumtall
+  twitter : tallblag
   feedburner : feedname
 
 navigation :
