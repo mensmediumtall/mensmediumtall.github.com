@@ -3,7 +3,7 @@ title: "Fat"
 permalink: /articles/fat.html
 date: '2013-02-10'
 author: AJ ONeal
-description: "A rebuttle to a complaint that our comic addressing the issue of big and tall stores using their name as a euphemism, at the expense and injustice of the tall."
+description: "A rebuttle to a complaint that our comic - addressing the issue of big and tall stores using their name as a euphemism, at the expense and injustice of the tall - is insensitive"
 categories:
   - feedback
 ---
@@ -14,9 +14,12 @@ categories:
 [the-cake-is-a-lie]: http://www.urbandictionary.com/define.php?term=the%20cake%20is%20a%20lie
 [pink-elephant]: http://en.wikipedia.org/wiki/Elephant_in_the_room
 [born-this-way]: http://youtu.be/wV1FrqwZyKw
+[adhd-self-med]: http://www.sosdallas.com/Link.htm
 
-A rebuttle to a complaint that our comic addressing the issue of big and tall stores
-using their name as a euphemism, at the expense and injustice of the tall.
+A rebuttle to a complaint that our comic -
+which addressing the issue of big and tall stores
+using their name as a euphemism, at the expense and injustice of the tall -
+is insensitive.
 
 ## Negative Feedback
 
@@ -93,6 +96,9 @@ choices that negatively affect their image which are not considered taboo.
 As an example, it's not considered culturally insensitive to unspecifically
 [address a group of drug addicts][meth-project].
 
+As another example, those who use [nicotine to self-meditate][adhd-self-med] their
+(possibily hereditary) ADHD don't get pulled out of the smokers label.
+
 But, whatever, the truth is that *fat* is often considered an offensive word.
 I can live with that.
 
@@ -125,32 +131,33 @@ will go something like this:
 > and Tall is *good* so I can
 > *brag* that I shop at a big *and tall* store.
 
-Well, we're born this way (but not [this way][born-this-way].
+Well, we're born this way (but not [this way][born-this-way]).
 It's not something we can change by changing our lifestyle.
 It's not that we have anything against the fat,
-it's that we don't like that this double-euphemism **comes at the *our* expense**!
+it's that we don't like that this double-euphemism **comes at *our* expense**!
 
 In reality big and tall stores don't have lengths that are any longer than
 would be expected in accordance with normal size progression.
 
 An *extra large* is maybe 2 inches longer than a *small*.
-For many brands and styles, an *LT* and an *XXXL*
-(pronounced triple-X L, hence the *an*)
-are exactly the same size - they're simply relabeled.
+For many brands and styles, *LT* and *XXXL*
+are exactly the same size -
+they're simply relabeled (the tag on the shirt, that is).
 
 We (speaking for many a tall person) are a little bitter about that injustice.
-There's some hurt feelings.
+We've got hurt feelings.
 
-We've all had the experience of thinking we've found something that will fit well,
-only to find out that [the cake is a lie][the-cake-is-a-lie].
-That breeds some resentment - again not towards the fat,
-but towards companies that use *us* to *their* advantage without giving us
-the promised product in return.
+We, the Tall, have all had the experience of thinking we've found
+a store with clothes that might actually fit well
+only to go inside and find out that [the cake is a lie][the-cake-is-a-lie].
+That breeds some resentment - not towards the fat,
+but towards companies that use *us* and *our label* to *their* advantage
+without giving us the promised product in return.
 
 (That said, it's worth noting that although a MT from the regular section
 *might* be legitimately Medium Tall -
-but it's *extremely* rare to find one -
-whereas an MT from a big and tall section is almost always a XXL or XXXL relabeled)
+though it's *extremely* rare to find one -
+an MT from a big and tall section is almost always a XXL or XXXL retagged)
 
 That's the underlying psyschology of why we (Men's Medium Tall)
 chose to use the word *fat*.
@@ -188,12 +195,12 @@ I probably only relax it when I'm sleeping.
 I say this because I don't want anyone thinking that my points are invalid
 on a basis of never having experienced or having been impacted by image issues.
 
-Image issues are something we all deal and, in many cases, are things that we can
-resolve -
+Image issues are something we all deal with and,
+in many cases, are things that we (as individuals) can resolve -
 regardless of the fact that it is easier for some than for others.
 
-For the case of the Tall, we're helping to solve image issues by providing
+For the case of the Tall, we're helping to resolve image issues by providing
 clothes that are not only *not embarrassing* to wear,
-but that... well, look good.
+but that... well, look *good*.
 
 :-D
