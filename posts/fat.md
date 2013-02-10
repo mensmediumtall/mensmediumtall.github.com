@@ -159,3 +159,20 @@ Not the politically correct side.
 Not the side of the [95%](http://answers.google.com/answers/threadview/id/325064.html).
 
 **On the side of the top 10%.**
+
+## And I've been there too
+
+As an FYI, I'm actually slightly overweight, but no one ever notices.
+
+When I was in 6th grade I was going through a chubby phase and one day this
+girl came up to me and said *you're fat*.
+Since that day I have always sucked my stomach in.
+Always.
+*Always.*
+**Always.**
+
+It's become the norm for me so much that when I relax my stomach it feels weird.
+I probably only relax it when I'm sleeping.
+
+I just don't want anyone thinking that my points are invalid on a basis of
+never having experienced or having been impacted by image issues.
