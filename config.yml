@@ -16,7 +16,7 @@ production_url: "http://tallblag.com"
 #  To host at the path: http://myuniversity.edu/staff/me/~/blog.
 #  set base_path: "/staff/me/~/blog"
 # NOTE: base_path is never added in development mode (for convenience).
-base_path: "/blag"
+base_path: ""
 
 theme:
   name: "twitter"
