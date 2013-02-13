@@ -1,5 +1,6 @@
 ---
 title: Popcorn Ceilings and Superbowl XLVII 2013
+permalink: popcorn-ceilings-and-superbowl-xlvii-2013.html
 date: '2013-02-13'
 description: "What happens when your"
 categories:
