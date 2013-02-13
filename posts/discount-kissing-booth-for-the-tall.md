@@ -17,4 +17,8 @@ that read *Kiss me if you feel the inclination to do so*.
 
 I thought it was cool, so I put one on that read *KISSES FREE (if you can reach)*.
 
-#truestory
+\#truestory
+
+Did you like that? Show us!
+
+Go to <http://mensmediumtall.com> and give us a Like, Share, or +1!
