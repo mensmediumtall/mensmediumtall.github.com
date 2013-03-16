@@ -5,7 +5,7 @@ date: '2013-03-16'
 description: "A trip down memory lane... back to when pinching was allowed in school."
 categories:
   - holidays
-tags
+tags:
   - "St. Patty's Day"
 author: AJ ONeal
 ---
