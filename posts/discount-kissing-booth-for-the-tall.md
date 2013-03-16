@@ -4,6 +4,7 @@ permalink: /articles/discount-kissing-booth-for-the-tall.html
 date: '2013-02-13'
 description: "I give all the #TallGirls a special discount at my kissing booth on Valentine's day."
 categories:
+  - holidays
   - relationships
 tags:
   - kissing
