@@ -17,6 +17,10 @@ author: AJ ONeal
 
 ## Forgetful is as Forgetful does
 
+<span style="font-size: 9pt">
+Disclaimer: this is all random and doesn't really have anything to do with anything.
+</span>
+
 I can't say that I'm well known for being the most observant person...
 or having the best memory.
 They say you can be ugly or stupid, but not both.
@@ -39,9 +43,8 @@ to take a few different pictures of my shirt and then measuring the RGB values w
 Turns out it was *turquoise* -
 or at least I think that's what you call the color that's equal parts green and blue.
 
-I do remember one year in Elementary School at
-[DJ Montague](http://www.edline.net/pages/D_J_Montague_Elementary),
-whose school colors happen to include green...
+I do remember a particular St. Patty's Day in elementary school
+([and my school colors happen to include green](http://www.edline.net/pages/D_J_Montague_Elementary))...
 In addition to rising early on the growth charts,
 I was also an early hispter.
 I know this because although I was at top of my class,
@@ -52,7 +55,7 @@ Whatever cool I was doing... definitely wasn't cool *yet*.
 Anyway, I remember some of the other kids were chasing me
 with their pincers out
 and I was bookin' it as fast as I could down the hallway when all of the sudden
-the teacher steps from out of nowhere in front of me and pinches me so hard
+the teacher steps out in front of me and pinches me so hard
 (using the fisted thumb roll, which is the most tortuous of all the pinching styles, FYI)
 that it brought me to tears.
 (sidenote: that's probably be illegal these days,
@@ -73,5 +76,3 @@ P.P.S. Have you ever noticed how redheads (actually orange) either
 *A* always wear a little green and look super cute all the time
 or
 *B* have an *absolute* lack of fashion sense and try *relentlessly* to pull off pink?
-
-P.P.P.S. Holy smokes it's 2am!
